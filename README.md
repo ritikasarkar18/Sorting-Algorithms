@@ -5,6 +5,6 @@
 Each algorithm has their own directory. Simply go into the desired algorithm's directory and choose a language to view!
 
 <h2>How to contribute</h2>
-Please read [CONTRIBUTING.md] before contributing.
-
+Please read CONTRIBUTING.md before contributing.
+https://github.com/Rogue-Halo/sorting-algorithms/blob/main/CONTRIBUTING.md
 <h2>Contributors<h2>
