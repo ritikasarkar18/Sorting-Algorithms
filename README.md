@@ -6,5 +6,5 @@ Each algorithm has their own directory. Simply go into the desired algorithm's d
 
 <h2>How to contribute</h2>
 Please read CONTRIBUTING.md before contributing.
-https://github.com/Rogue-Halo/sorting-algorithms/blob/main/CONTRIBUTING.md
+
 <h2>Contributors<h2>
