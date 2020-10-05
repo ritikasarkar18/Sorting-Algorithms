@@ -11,10 +11,12 @@ assignees: ''
 **Algorithm; **
 **Language: **
 
+**Please briefly describe how this sorting algorithm works**
+
 **Are their any prior implementations of this algorithm in any language on this repo?**
-- Yes []
-- No []
+- [ ] - Yes 
+- [ ] - No
 
 **Do you want to claim this issue?**
-- Yes []
-- No []
+- [ ] - Yes
+- [ ] - No
