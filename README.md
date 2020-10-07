@@ -5,7 +5,7 @@
 Each algorithm has their own directory. Simply go into the desired algorithm's directory and choose a language to view!
 
 <h2>How to contribute</h2>
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) before contributing.
+Please read CONTRIBUTING.md
 
 ## Contributors ✨
 
