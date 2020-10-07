@@ -10,8 +10,6 @@ Each algorithm has their own directory. Simply go into the desired algorithm's d
 <h2>How to contribute</h2>
 Please read CONTRIBUTING.md before contributing.
 
-<h2>Contributors<h2>
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
