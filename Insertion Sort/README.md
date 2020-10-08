@@ -13,7 +13,15 @@
 
 ### Pseudocode Example:
 ```
-
+FOR index = 1 TO length(list) - 1    
+  currentval = list [index]    
+  position = index   
+  WHILE position > 0 AND (list [position-1] > currentval)        
+    list[position] = list [position-1]        
+    position -= 1    
+  END WHILE
+  SET list[position] = currentval
+END FOR
 ```
 
 ### This is a very common sorting algorithm and can be implemented in pretty much every language.<br>Check out the rest of this folder to see some examples of it at work!
