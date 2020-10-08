@@ -1,6 +1,5 @@
 // C++ implementation of a bubble sort, currently using stack-allocated, fixed-size arrays
 #include <iostream>
-#include <vector>
 
 void swap(int *x,int *y) {
   int t = *x;
