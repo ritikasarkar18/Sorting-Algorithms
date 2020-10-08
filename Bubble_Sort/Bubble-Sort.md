@@ -7,7 +7,7 @@
 * Goes onto the next 2 numbers, does the same for the rest. Compare, check if larger and switch if needed.
 * Now we know that the final number in the array is the largest.
 * We repeat the process all again, slowly confirming that we have the largest number after swapping and reaching the end of the array.
-<div align="center>
+
 ### Pseudocode Example:
 ```
 FOR i FROM length-2 TO 0 STEP -1 DO 
@@ -21,4 +21,4 @@ FOR i FROM length-2 TO 0 STEP -1 DO
 END FOR 
 ```
 This is a very common sorting algorithm and can be implemented in pretty much every language.<br>Check out the rest of this folder to see some examples of it at work!
-</div>
+
