@@ -20,7 +20,6 @@ FOR i = 1 TO n - 1
     SWAP list[min] AND list[i]
    END IF
 END FOR
-
 ```
 
 ### This is a very common sorting algorithm and can be implemented in pretty much every language.<br>Check out the rest of this folder to see some examples of it at work!
