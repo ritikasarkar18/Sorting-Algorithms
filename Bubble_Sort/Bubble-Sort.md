@@ -20,6 +20,6 @@ FOR i FROM length-2 TO 0 STEP -1 DO
   END FOR 
 END FOR 
 ```
-<div align="center>
+
 This is a very common sorting algorithm and can be implemented in pretty much every language.<br>Check out the rest of this folder to see some examples of it at work!
 
