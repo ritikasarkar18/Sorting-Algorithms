@@ -9,6 +9,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 1. Star the repo!
 2. Fork the repo
+3. Create a new branch for your PR
 3. Get coding & make sure it works. Please save the file as "[Sorting_Algorithm_Name][Language_Name].py"
 4. Open a PR with your changes
 
