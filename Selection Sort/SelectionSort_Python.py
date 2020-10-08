@@ -1,5 +1,4 @@
 # Selection Sort implementation in python
-import sys 
 Arr = [60, 25, 10, 32, 9] 
   
 # Traverse through all array elements 
