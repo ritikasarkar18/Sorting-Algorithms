@@ -12,11 +12,11 @@
 ```
 FOR i FROM length-2 TO 0 STEP -1 DO 
   FOR counter FROM 0 TO i DO 
-  IF list[counter ]>list[counter +1] THEN 
-    SET temp TO list[counter +1]
-    SET list[counter +1] TO list[counter ]
-    SET list[counter] TO temp
-  END IF 
+    IF list[counter ]>list[counter +1] THEN 
+      SET temp TO list[counter +1]
+      SET list[counter +1] TO list[counter ]
+      SET list[counter] TO temp
+    END IF 
  END FOR 
 END FOR 
 ```
