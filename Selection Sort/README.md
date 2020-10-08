@@ -9,6 +9,17 @@
 
 ### Pseudocode Example:
 ```
+FOR i = 1 TO n - 1
+  min = i    
+  FOR j = i+1 TO n 
+    IF list[j] < list[min] THEN
+      min = j;
+    END IF
+  END FOR
+   IF indexMin != i THEN
+    SWAP list[min] AND list[i]
+   END IF
+END FOR
 
 ```
 
