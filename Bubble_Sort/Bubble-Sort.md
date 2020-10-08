@@ -22,4 +22,4 @@ END FOR
 ```
 <div align="center>
 This is a very common sorting algorithm and can be implemented in pretty much every language.<br>Check out the rest of this folder to see some examples of it at work!
-</div>
+
