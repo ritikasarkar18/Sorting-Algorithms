@@ -1,34 +1,26 @@
+// C++ implementation of a bubble sort, currently using stack-allocated, fixed-size arrays
 #include <iostream>
-#include <string>
-#include <math.h>
-#include <algorithm>
-#include <vector>
-#include <stack>
-#include <queue>
-#include <set>
-#include <map>
-#include <utility>
-using namespace std;
-typedef long long ll;
-void swap(int *x,int *y){
-    int temp=*x;
-    *x=*y;
-    *y=temp;
+
+void swap(int *x,int *y) {
+  int t = *x;
+  *x=*y;
+  *y=t;
 }
-void BubbleSort(int list[],int n){
-    int i,j;
-    for(i=0;i<n-1;i++)
-        for(j=0;j<n-i-1;j++)
-            if(list[j]>list[j+1])
-                swap(&list[j],&list[j+1]);
+
+void bubble_sort(int list[],int n){
+  int i,j;
+  for(i=0;i<n-1;i++)
+    for(j=0;j<n-i-1;j++)
+      if(list[j]>list[j+1])
+        swap(&list[j],&list[j+1]);
 }
+
 int main(){
-    int list[]={64,34,25,12,22,11,90};
-    int i,n=sizeof(list)/sizeof(list[0]);
-    BubbleSort(list,n);
-    cout<<"Sorted listay: \n";
-    for(i=0;i<n;i++)
-        cout << list[i] << " ";
-    cout << endl;
-    return 0;
+  int list[] = {10,14,9,5,2,18,7};
+  int i,n=sizeof(list)/sizeof(*list);
+  bubble_sort(list,n);
+  std::cout << "Sorted array is: \n";
+  for(i=0;i<n;i++) std::cout << list[i] << " ";
+  std::cout << std::endl;
+  return 0;
 }
