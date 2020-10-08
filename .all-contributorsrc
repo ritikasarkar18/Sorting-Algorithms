@@ -14,6 +14,15 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "FaizAlam",
+      "name": "Faiz",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/21370009?v=4",
+      "profile": "https://github.com/FaizAlam",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
