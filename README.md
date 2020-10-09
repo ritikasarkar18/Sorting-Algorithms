@@ -21,6 +21,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/chinmaychahar"><img src="https://avatars0.githubusercontent.com/u/56752925?v=4" width="100px;" alt=""/><br /><sub><b>Chinmay</b></sub></a><br /><a href="https://github.com/Rogue-Halo/Sorting-Algorithms/commits?author=chinmaychahar" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/codic12"><img src="https://avatars2.githubusercontent.com/u/48339289?v=4" width="100px;" alt=""/><br /><sub><b>codic12</b></sub></a><br /><a href="https://github.com/Rogue-Halo/Sorting-Algorithms/commits?author=codic12" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/kir0ul"><img src="https://avatars3.githubusercontent.com/u/6053592?v=4" width="100px;" alt=""/><br /><sub><b>kir0ul</b></sub></a><br /><a href="https://github.com/Rogue-Halo/Sorting-Algorithms/commits?author=kir0ul" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Aditi014"><img src="https://avatars0.githubusercontent.com/u/48182649?v=4" width="100px;" alt=""/><br /><sub><b>Aditi014</b></sub></a><br /><a href="https://github.com/Rogue-Halo/Sorting-Algorithms/commits?author=Aditi014" title="Code">💻</a></td>
   </tr>
 </table>
 
