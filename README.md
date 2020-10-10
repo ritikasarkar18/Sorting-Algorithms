@@ -28,6 +28,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/SwagataSrimani"><img src="https://avatars0.githubusercontent.com/u/64727839?v=4" width="100px;" alt=""/><br /><sub><b>SwagataSrimani</b></sub></a><br /><a href="https://github.com/Rogue-Halo/Sorting-Algorithms/commits?author=SwagataSrimani" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/parth-panchal"><img src="https://avatars1.githubusercontent.com/u/48169949?v=4" width="100px;" alt=""/><br /><sub><b>parth-panchal</b></sub></a><br /><a href="https://github.com/Rogue-Halo/Sorting-Algorithms/commits?author=parth-panchal" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Satyajeet-code"><img src="https://avatars2.githubusercontent.com/u/56536469?v=4" width="100px;" alt=""/><br /><sub><b>Satyajeet-code</b></sub></a><br /><a href="https://github.com/Rogue-Halo/Sorting-Algorithms/commits?author=Satyajeet-code" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Spacial"><img src="https://avatars1.githubusercontent.com/u/4955081?v=4" width="100px;" alt=""/><br /><sub><b>Spacial</b></sub></a><br /><a href="https://github.com/Rogue-Halo/Sorting-Algorithms/commits?author=Spacial" title="Code">💻</a></td>
   </tr>
 </table>
 
