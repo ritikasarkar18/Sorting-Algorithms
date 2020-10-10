@@ -4,10 +4,14 @@
 * (What you changed)
 * (Add bullet points to make it more readable)
 
+
 ## Screenshots of execution
+(Screenshot of program working)
+
 
 ## Relates to issue:
 (Link the issue here please)
+
 
 ## Checklist:
 - [ ] - Code sorts an array of numbers
