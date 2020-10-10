@@ -6,7 +6,7 @@ Each algorithm has their own directory. Simply go into the desired algorithm's d
 
 <h2>How to contribute</h2>
 Please read CONTRIBUTING.md
-
+**Please ensure to open an issue prior to contributing! - This helps me keep track of the repo.**
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
