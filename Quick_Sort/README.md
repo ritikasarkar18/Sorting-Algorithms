@@ -7,8 +7,6 @@
 * Apply the same procedure on each part (smallers/biggers)
 * We continue this until all the numbers are sorted!
 
-More on [Wikipedia](https://en.wikipedia.org/wiki/Quicksort).
-
 ### Pseudocode Example:
 ```
 QUICKSORT(array):
@@ -25,5 +23,5 @@ QUICKSORT(array):
   RETURN QUICKSORT(smallersarray) + equalsarray +  QUICKSORT(biggersarray)
 ```
 
-### This is one of the best sorting algorithm and can be implemented in pretty much every language.<br>Check out the rest of this folder to see some examples of it at work!
+### This is one of the best sorting algorithms and can be implemented in pretty much every language.<br>Check out the rest of this folder to see some examples of it at work!
 
