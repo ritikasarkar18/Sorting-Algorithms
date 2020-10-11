@@ -32,6 +32,6 @@ int main() {
     cout << "Our Input array" << endl;
     displayArray(arr, n);
     selectionSort(arr, n); 
-    cout << "Array sorted with quick sort" << endl; 
+    cout << "Array sorted with selction sort" << endl; 
     displayArray(arr, n); 
 }
