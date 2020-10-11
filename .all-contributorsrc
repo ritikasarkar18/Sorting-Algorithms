@@ -124,6 +124,24 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Vivskecher",
+      "name": "Vivek",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/32415551?v=4",
+      "profile": "https://viv1.netlify.app/me/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "haripatelll",
+      "name": "Harish Patel",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/34925349?v=4",
+      "profile": "https://github.com/haripatelll",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
