@@ -34,6 +34,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/pi-rate14"><img src="https://avatars2.githubusercontent.com/u/55649629?v=4" width="100px;" alt=""/><br /><sub><b>pi-rate14</b></sub></a><br /><a href="https://github.com/Rogue-Halo/Sorting-Algorithms/commits?author=pi-rate14" title="Code">💻</a></td>
     <td align="center"><a href="https://viv1.netlify.app/me/"><img src="https://avatars0.githubusercontent.com/u/32415551?v=4" width="100px;" alt=""/><br /><sub><b>Vivek</b></sub></a><br /><a href="https://github.com/Rogue-Halo/Sorting-Algorithms/commits?author=Vivskecher" title="Code">💻</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/haripatelll"><img src="https://avatars0.githubusercontent.com/u/34925349?v=4" width="100px;" alt=""/><br /><sub><b>Harish Patel</b></sub></a><br /><a href="https://github.com/Rogue-Halo/Sorting-Algorithms/commits?author=haripatelll" title="Code">💻</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
