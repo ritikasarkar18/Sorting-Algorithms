@@ -1,5 +1,6 @@
 #!/usr/bin/env Rscript
 
+# Main insertion sort function
 insertion_sort <- function(list) {
     for (index in seq_len(length(list) - 1)) {
         currentval <- list[index]
@@ -13,6 +14,7 @@ insertion_sort <- function(list) {
   return(list)
 }
 
+# Some example to test the function
 list <- c(6, 5, 3, 1, 8, 7, 2, 4)
 print(list)
 list_sorted <- insertion_sort(list)
