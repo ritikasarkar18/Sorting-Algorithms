@@ -5,11 +5,7 @@ It sorts by randomizing the provided dataset and then checking to see if it corr
 If not, it randomizes again and repeats this proccess. 
 
 ## Psuedocode
-``
+````
 while(checkSorted(valueArr) equals NOT TRUE)
-
-
-
-
     shuffleElements(valueArr)
-``
+````
