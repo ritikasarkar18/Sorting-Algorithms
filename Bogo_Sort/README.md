@@ -7,5 +7,9 @@ If not, it randomizes again and repeats this proccess.
 ## Psuedocode
 ``
 while(checkSorted(valueArr) equals NOT TRUE)
+
+
+
+
     shuffleElements(valueArr)
 ``
