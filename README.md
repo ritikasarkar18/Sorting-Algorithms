@@ -8,7 +8,6 @@ Each algorithm has their own directory. Simply go into the desired algorithm's d
 Please read CONTRIBUTING.md
 
 __Please ensure to open an issue prior to contributing! - This helps me keep track of the repo.__
-
 __Currently not accepting any more forms of sorting algorithms. Only new implementations of it.__
 ## Contributors ✨
 
