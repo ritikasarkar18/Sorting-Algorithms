@@ -7,8 +7,7 @@ Each algorithm has their own directory. Simply go into the desired algorithm's d
 <h2>How to contribute</h2>
 Please read CONTRIBUTING.md
 
-__Please ensure to open an issue prior to contributing! - This helps me keep track of the repo.__
-__Currently not accepting any more forms of sorting algorithms. Only new implementations of it.__
+__Please ensure to open an issue prior to contributing! - This helps me keep track of the repo.__<\br>__Currently not accepting any more forms of sorting algorithms. Only new implementations of it.__
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
