@@ -39,6 +39,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/haripatelll"><img src="https://avatars0.githubusercontent.com/u/34925349?v=4" width="100px;" alt=""/><br /><sub><b>Harish Patel</b></sub></a><br /><a href="https://github.com/Rogue-Halo/Sorting-Algorithms/commits?author=haripatelll" title="Code">💻</a></td>
     <td align="center"><a href="https://partiallyroastedsmore.com/"><img src="https://avatars1.githubusercontent.com/u/38567588?v=4" width="100px;" alt=""/><br /><sub><b>Chris</b></sub></a><br /><a href="https://github.com/Rogue-Halo/Sorting-Algorithms/commits?author=Nightsmore" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/rkraghavkh18"><img src="https://avatars3.githubusercontent.com/u/57208426?v=4" width="100px;" alt=""/><br /><sub><b>Raghav Khandelwal</b></sub></a><br /><a href="https://github.com/Rogue-Halo/Sorting-Algorithms/commits?author=rkraghavkh18" title="Code">💻</a></td>
   </tr>
 </table>
 
